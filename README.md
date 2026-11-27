@@ -6,7 +6,7 @@ A separate personal and creative project associated with TRTT Voyage and dedicat
 
 - **Initiated by:** Engr. Abu Taher / TRTT Voyage
 - **Project:** TRTT Voyage — Muse Diary
-- **Brand website:** https://trttvoyage.com
+- **Brand website:** https://www.trttvoyage.com
 - **Repository:** https://github.com/Cocvghuj/trttvoyage--muse-diary
 - **Main organization:** https://github.com/Trttvoyage
 
